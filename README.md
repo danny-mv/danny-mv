@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @xpan1c      Cancel changes
-
+- 👋 Hi, I’m @xpan1c  
 - 👀 I’m interested in Java Development
 - 🌱 I’m currently learning Node.js
 - 📫 How to reach me linkedin.com/danny-mv

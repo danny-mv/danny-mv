@@ -6,7 +6,6 @@ Backend developer
 
 * 🌍  I'm based in Barcelona
 * ✉️  You can contact me at [dannym.mejia@gmail.com](mailto:dannym.mejia@gmail.com)
-* 🚀  I'm currently working on [ITAwiki](http://dev.itawiki.eurecatacademy.org/)
 * 🧠  I'm learning AWS
 
 ### Skills
